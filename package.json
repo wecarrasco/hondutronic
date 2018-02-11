@@ -1,0 +1,22 @@
+{
+  "name": "hondutronic",
+  "version": "1.0.0",
+  "description": "Hondutronic",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wecarrasco/hondutronic.git"
+  },
+  "author": "Walther Carrasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wecarrasco/hondutronic/issues"
+  },
+  "homepage": "https://github.com/wecarrasco/hondutronic#readme",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
